@@ -1,1 +1,1 @@
-### This repository is to record nlp learning projects.
+This repository is to record nlp learning projects.
