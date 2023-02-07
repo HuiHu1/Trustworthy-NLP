@@ -1,5 +1,5 @@
 
-This repository aims to record the related work on trustworthy NLP projects.
+This repository aims to record the related work on trustworthy NLP projects (Industry Level).
 
 Project 1: Word Cloud Construction; Spam Detection; Sentiment Analysis (Experiment on emails dataset).
 
