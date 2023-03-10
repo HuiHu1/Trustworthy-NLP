@@ -1,5 +1,5 @@
 
-This repository aims to record the related work on trustworthy NLP projects (From Industry).
+This repository aims to record the related work on trustworthy NLP projects from the industry.
 
 Project 1: Word Cloud Construction; Sentiment Analysis.
 
