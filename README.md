@@ -1,6 +1,6 @@
 ![](https://github.com/HuiHu1/Trustworthy-NLP/blob/main/Capture.JPG)
 
-This repository aims to record the related work on trustworthy NLP projects from the industry.
+This repository aims to record the related work on trustworthy NLP projects.
 
 #### Projects: 
 
