@@ -14,4 +14,4 @@ This repository aims to record the related work on trustworthy NLP projects from
 
 #### Workshops: 
 
-1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing
+1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing [[Link]](https://trustnlpworkshop.github.io/).
