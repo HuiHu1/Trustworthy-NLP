@@ -10,8 +10,8 @@ This repository aims to record the related work on trustworthy NLP projects.
 #### Books:  
 
 1. Natural Language Processing with Python by Steven Bird, Ewan Klein and Edward Loper[[Link]](https://tjzhifei.github.io/resources/NLTK.pdf).
-2. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition by Dan Jurafsky and James H. Martin [[Link]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf).
+2. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition by Dan Jurafsky and James H. Martin[[Link]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf).
 
 #### Workshops: 
 
-1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing [[Link]](https://trustnlpworkshop.github.io/).
+1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing[[Link]](https://trustnlpworkshop.github.io/).
