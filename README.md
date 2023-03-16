@@ -15,3 +15,7 @@ This repository aims to record the related work on trustworthy NLP projects from
 #### Workshops: 
 
 1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing[[Link]](https://trustnlpworkshop.github.io/).
+
+#### Video Resources: 
+
+1. Natural Language Processing in Python[[Link]](https://www.youtube.com/watch?v=xvqsFTUsOmc). 
