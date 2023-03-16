@@ -4,8 +4,7 @@ This repository aims to record the related work on trustworthy NLP projects from
 
 #### Projects: 
 
-1. Word Cloud Construction; Sentiment Analysis.
-2. Comment Classification.
+Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Modeling, Text Generation.
 
 #### Books:  
 
