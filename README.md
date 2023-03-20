@@ -18,3 +18,7 @@ Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Model
 #### Video Resources: 
 
 1. Natural Language Processing in Python[[Link]](https://www.youtube.com/watch?v=xvqsFTUsOmc). 
+
+#### Slides: 
+
+1. Trustworthy Natural Language Processing[[Link]](http://lipiji.com/slides/TrustNLP.pdf). 
