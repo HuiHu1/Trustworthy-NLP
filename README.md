@@ -15,6 +15,7 @@ Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Model
 
 1. TrustNLP: Third Workshop on Trustworthy Natural Language Processing[[Link]](https://trustnlpworkshop.github.io/).
 2. ICLR Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models[[Link]](https://rtml-iclr2023.github.io/).
+3. PrivateNLP: Fourth Workshop on Privacy in Natural Language Processing[[Link]](https://sites.google.com/view/privatenlp/).
 
 #### Video Resources: 
 
