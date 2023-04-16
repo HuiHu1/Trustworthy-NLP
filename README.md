@@ -20,6 +20,7 @@ Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Model
 #### Video Resources: 
 
 1. Natural Language Processing in Python[[Link]](https://www.youtube.com/watch?v=xvqsFTUsOmc). 
+2. Natural Language Processing with Deep Learning[[Link]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ). 
 
 #### Slides: 
 
