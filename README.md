@@ -17,11 +17,8 @@ Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Model
 2. ICLR Workshop on Trustworthy and Reliable Large-Scale Machine Learning Models[[Link]](https://rtml-iclr2023.github.io/).
 3. PrivateNLP: Fourth Workshop on Privacy in Natural Language Processing[[Link]](https://sites.google.com/view/privatenlp/).
 
-#### Video Resources: 
+#### Other Resources: 
 
 1. Natural Language Processing in Python[[Link]](https://www.youtube.com/watch?v=xvqsFTUsOmc). 
 2. Natural Language Processing with Deep Learning[[Link]](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ). 
-
-#### Slides: 
-
-1. Trustworthy Natural Language Processing[[Link]](http://lipiji.com/slides/TrustNLP.pdf). 
+3. Trustworthy Natural Language Processing[[Link]](http://lipiji.com/slides/TrustNLP.pdf). 
