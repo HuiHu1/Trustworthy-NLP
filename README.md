@@ -4,12 +4,12 @@ This repository aims to record the related work on trustworthy NLP projects from
 
 #### Projects: 
 
-Word Cloud Construction, Sentiment Analysis, Comment Classification, Topic Modeling, Text Generation, Similarity News, Fake News Detection.
+Sentiment Analysis, Comment Classification, Topic Modeling, Text Generation, Similarity News, and Fake News Detection.
 
 #### Books:  
 
-1. Natural Language Processing with Python by Steven Bird, Ewan Klein and Edward Loper[[Link]](https://tjzhifei.github.io/resources/NLTK.pdf).
-2. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition by Dan Jurafsky and James H. Martin[[Link]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf).
+1. Natural Language Processing with Python by Steven Bird, Ewan Klein, and Edward Loper[[Link]](https://tjzhifei.github.io/resources/NLTK.pdf).
+2. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition by Dan Jurafsky and James H. Martin[[Link]](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf).
 
 #### Workshops: 
 
